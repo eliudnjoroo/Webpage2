@@ -282,7 +282,7 @@ nav ul li a {
     margin-left: 20px;
 }
 /*resposive*/
-@media only screen and (max-width: 78px){
+@media only screen and (max-width: 768px){
     nav ul{
         display: none;
     }
